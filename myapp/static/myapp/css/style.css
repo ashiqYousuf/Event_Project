@@ -1,0 +1,12 @@
+body , html{
+    background-color: gainsboro;
+    color: black;
+}
+
+.sp-img{
+    width: 200px;
+    height: 250px;
+}
+.liked{
+    color: red;
+}
